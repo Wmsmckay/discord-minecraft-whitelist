@@ -24,4 +24,4 @@ docker run \
 -e DIS_MC_PASSWORD="password \
 -e DIS_MC_SERVER_INFO_MESSAGE_ID=1234567890 \
 -e DIS_MC_MAIN_CHANNEL_ID=234567012456 \
--d wmsmckay/discord-minecraft-whitelist:latest```
+-d wmsmckay/discord-minecraft-whitelist```
